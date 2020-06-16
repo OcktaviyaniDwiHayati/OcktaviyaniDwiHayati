@@ -1,2 +1,3 @@
-# OcktaviyaniDwiHayati
-UAS_PSDA_BST_Kelas A
+Nama  : Ocktaviyani Dwi Hayati
+NIM   : 1910512018
+Email : ocktaviyanidh@upnvj.ac.id
